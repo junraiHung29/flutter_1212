@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
             children: [
               Gap(10),
               CircleAvatar(
-                radius: 120,
+                radius: 150,
                 backgroundImage: AssetImage('Image/images.png'),
               ),
               Gap(10),
@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
               Container(
                 width: 300,
                 height: 1,
-                color: Colors.grey,
+                color: Colors.black,
               ),
               Text('Hello~~~~',
                 style: TextStyle(
