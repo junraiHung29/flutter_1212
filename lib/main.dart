@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
             children: [
               Gap(10),
               CircleAvatar(
-                radius: 120,
+                radius: 150,
                 backgroundImage: AssetImage('Image/images.png'),
               ),
               Gap(10),
