@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Color(0xffe0ffff),
         appBar: AppBar(
-          title: Center(child: Text('Week 1',style: TextStyle(fontSize: 30),)),
+          title: Center(child: Text('',style: TextStyle(fontSize: 30),)),
           backgroundColor: Color(0xffe0ffff),
         ),
         body: Center(
