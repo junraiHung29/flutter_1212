@@ -70,7 +70,8 @@ class MyApp extends StatelessWidget {
                     SizedBox(width: 30,),
                     Icon(Icons.mail,size: 30,),
                     SizedBox(width: 15,),
-                    Text('@stu.edu.tw',style: TextStyle(fontSize: 20),)
+
+                    Text('s111316012@stu.ntue.edu.',style: TextStyle(fontSize: 20),)
                   ],
                 ),
               ),
