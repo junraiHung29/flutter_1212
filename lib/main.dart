@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Color(0xfffffae0),
         appBar: AppBar(
-          title: Center(child: Text('LiuTsaiYing',style: TextStyle(fontSize: 30),)),
+          title: Center(child: Text('LiuTsai',style: TextStyle(fontSize: 30),)),
           backgroundColor: Color(0xffb8ac92),
         ),
         body: Center(
