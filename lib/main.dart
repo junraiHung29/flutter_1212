@@ -12,10 +12,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Color(0xffe0ffff),
+        backgroundColor: Color(0xffb8ac92),
         appBar: AppBar(
-          title: Center(child: Text('Week 1',style: TextStyle(fontSize: 30),)),
-          backgroundColor: Color(0xffe0ffff),
+          title: Center(child: Text('LiuTsaiYing',style: TextStyle(fontSize: 30),)),
+          backgroundColor: Color(0xfffffae0),
         ),
         body: Center(
           child: Column(
@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
               Container(
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(50),
-                  color: Color(0xffb0c4de),
+                  color: Color(0xffb8ac92),
                 ),
                 width: 370,
                 height: 100,
@@ -61,7 +61,7 @@ class MyApp extends StatelessWidget {
               Container(
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(50),
-                  color: Color(0xffb0c4de),
+                  color: Color(0xffb8ac92),
                 ),
                 width: 370,
                 height: 100,
