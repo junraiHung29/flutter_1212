@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
 
         backgroundColor: Color(0xffb8ac92),
         appBar: AppBar(
+
           title: Center(child: Text('LiuTsaiYing',style: TextStyle(fontSize: 30),)),
           backgroundColor: Color(0xfffffae0),
 
