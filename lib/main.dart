@@ -53,7 +53,7 @@ class MyApp extends StatelessWidget {
                     SizedBox(width: 30,),
                     Icon(Icons.phone,size: 30,),
                     SizedBox(width: 15,),
-                    Text('',style: TextStyle(fontSize: 20),)
+                    Text('09xx-xxx-xxx',style: TextStyle(fontSize: 20),)
                   ],
                 ),
               ),
