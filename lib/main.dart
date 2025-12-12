@@ -12,10 +12,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Color(0xffb8ac92),
+        backgroundColor: Color(0xfffffae0),
         appBar: AppBar(
           title: Center(child: Text('LiuTsaiYing',style: TextStyle(fontSize: 30),)),
-          backgroundColor: Color(0xfffffae0),
+          backgroundColor: Color(0xffb8ac92),
         ),
         body: Center(
           child: Column(
